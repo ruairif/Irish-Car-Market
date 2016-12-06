@@ -1,0 +1,5 @@
+projects:
+  default: <ENTER PROJECT ID HERE>
+
+requirements:
+  file: requirements-crawl.txt
